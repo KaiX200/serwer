@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "db1aaa3b-2553-4e5a-a0db-1889121bca9b",
+    "name": "Sir",
+    "created": "2018-11-03 20:32:19 +0100",
+    "source": "KaiXl",
+    "expires": "forever",
+    "reason": "meow007"
+  },
+  {
+    "uuid": "95d078f1-b11b-4d8b-adfb-592b279fd6cb",
+    "name": "Kamil0903",
+    "created": "2018-09-26 19:50:24 +0200",
+    "source": "KaiXl",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "b4a479c4-c967-34a7-9044-ec02ebff6dd6",
+    "name": "MaciejekchoYT",
+    "created": "2018-11-19 20:26:36 +0100",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
